@@ -39,22 +39,6 @@ _Your desktop Operating Systems concurrency lab — 3 detection algorithms, 4 re
 
 ---
 
-## 📸 Simulator Preview
-
-<details>
-<summary><b>Click to see simulator screenshots</b></summary>
-
-| View                                | Screenshot                                                                              |
-| ----------------------------------- | --------------------------------------------------------------------------------------- |
-| **Dining Philosophers — Detection** | ![Dining Philosophers Detection](Screenshots/Dining%20Philosophers%20-%20Detection.png) |
-| **Resource Allocation Graph (RAG)** | ![Deadlock RAG](Screenshots/Deadlock%20-%20RAG.png)                                     |
-| **Wait-For Graph (WFG)**            | ![Wait-For Graph](Screenshots/WFG.png)                                                  |
-| **Post-Recovery State (Rollback)**  | ![After Roll Back](Screenshots/Dining%20Philosophers%20-%20After%20Roll%20Back.png)     |
-
-</details>
-
----
-
 ### 🧩 Complete Concurrency & Deadlock Toolkit
 
 _Simulate resource contention, inspect live cycle topology, verify safety sequences, and resolve deadlocks with zero external runtime overhead._
